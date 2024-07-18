@@ -10,6 +10,18 @@ export default function App() {
   );
 }
 
+
+
+
+
+
+
+
+
+function sait();
+{
+  console.log("sait");
+}
 const styles = StyleSheet.create({
   container: {
     flex: 1,
