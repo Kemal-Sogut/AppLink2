@@ -14,15 +14,6 @@ export default function App() {
 func Kemal();
 
 
-
-
-
-
-
-
-
-
-
 function sait();
 {
   console.log("sait");
