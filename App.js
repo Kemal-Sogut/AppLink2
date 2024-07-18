@@ -10,6 +10,8 @@ export default function App() {
   );
 }
 
+func Kemal();
+
 
 
 const styles = StyleSheet.create({
