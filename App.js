@@ -11,13 +11,7 @@ export default function App() {
   );
 }
 
-func Kemal();
 
-
-function sait();
-{
-  console.log("sait");
-}
 const styles = StyleSheet.create({
   container: {
     flex: 1,
