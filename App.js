@@ -9,19 +9,6 @@ export default function App() {
     </View>
   );
 }
-
-
-
-
-
-
-
-
-
-function sait();
-{
-  console.log("sait");
-}
 const styles = StyleSheet.create({
   container: {
     flex: 1,
